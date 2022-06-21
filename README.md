@@ -89,7 +89,7 @@ for (char, frequency) in freq:
 
 ### Print the characters and its huffmancode
 
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Huffman-Coding/blob/main/a.png?raw=true)
 
 
 
